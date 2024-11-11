@@ -8,3 +8,4 @@ Ciao questo è il mio primo messaggio su github
 ### metro gialla
 - comasina
 - affori FN
+- affori centro
