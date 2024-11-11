@@ -7,3 +7,4 @@ Ciao questo è il mio primo messaggio su github
 ## fermate della metro di milano
 ### metro gialla
 - comasina
+- affori FN
