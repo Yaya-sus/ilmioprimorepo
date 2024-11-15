@@ -21,3 +21,4 @@ Ciao questo è il mio primo messaggio su github
 - missori
 - crocetta
 - p.ta romana
+- lodi t.i.b.b.
