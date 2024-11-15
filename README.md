@@ -13,3 +13,4 @@ Ciao questo è il mio primo messaggio su github
 - maciachini
 - zara
 - sondrio
+- centrale FS
