@@ -15,3 +15,4 @@ Ciao questo è il mio primo messaggio su github
 - sondrio
 - centrale FS
 - repubblica
+- turati
