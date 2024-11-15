@@ -17,3 +17,4 @@ Ciao questo è il mio primo messaggio su github
 - repubblica
 - turati
 - montenapoleone
+- duomo
