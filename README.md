@@ -23,3 +23,4 @@ Ciao questo è il mio primo messaggio su github
 - p.ta romana
 - lodi t.i.b.b.
 - brenta
+- corvetto
