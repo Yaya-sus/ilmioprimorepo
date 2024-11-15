@@ -12,3 +12,4 @@ Ciao questo è il mio primo messaggio su github
 - dergano
 - maciachini
 - zara
+- sondrio
