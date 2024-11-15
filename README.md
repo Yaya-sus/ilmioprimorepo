@@ -11,3 +11,4 @@ Ciao questo è il mio primo messaggio su github
 - affori centro
 - dergano
 - maciachini
+- zara
