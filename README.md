@@ -22,3 +22,4 @@ Ciao questo è il mio primo messaggio su github
 - udine
 - cimiano
 - crescenzago
+- cascina gobba
