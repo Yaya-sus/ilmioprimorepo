@@ -18,3 +18,4 @@ Ciao questo è il mio primo messaggio su github
 - ca' granda
 - bicocca
 - ponale
+- bignami
