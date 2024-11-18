@@ -26,3 +26,4 @@ Ciao questo è il mio primo messaggio su github
 - loreto
 - pasteur
 - rovereto
+- turro
