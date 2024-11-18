@@ -31,3 +31,4 @@ Ciao questo è il mio primo messaggio su github
 - precotto
 - villa san giovanni
 - sesto marelli
+- sesto rondò
