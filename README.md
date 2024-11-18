@@ -32,3 +32,4 @@ Ciao questo è il mio primo messaggio su github
 - villa san giovanni
 - sesto marelli
 - sesto rondò
+- sesto 1°maggio FS
