@@ -27,3 +27,4 @@ Ciao questo è il mio primo messaggio su github
 - argonne
 - stazione forlanini
 - repetti
+- linate aeroporto
