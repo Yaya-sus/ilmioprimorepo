@@ -23,3 +23,5 @@ Ciao questo è il mio primo messaggio su github
 - cimiano
 - crescenzago
 - cascina gobba
+### continuo metro verde
+- vimodrone
