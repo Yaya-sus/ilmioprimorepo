@@ -23,3 +23,4 @@ Ciao questo è il mio primo messaggio su github
 ### metro blu
 - tricolore
 - dateo
+- susa
