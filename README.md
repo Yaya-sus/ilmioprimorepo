@@ -24,3 +24,4 @@ Ciao questo è il mio primo messaggio su github
 - porta venezia
 - lima
 - loreto
+- pasteur
