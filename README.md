@@ -26,3 +26,4 @@ Ciao questo è il mio primo messaggio su github
 ### continuo metro verde
 - vimodrone
 - cascina burrona
+- cernusco sul naviglio
