@@ -28,3 +28,4 @@ Ciao questo è il mio primo messaggio su github
 - cascina burrona
 - cernusco sul naviglio
 - villa fiorita
+- cascina de' pecchi
