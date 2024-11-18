@@ -30,3 +30,4 @@ Ciao questo è il mio primo messaggio su github
 - gorla
 - precotto
 - villa san giovanni
+- sesto marelli
