@@ -17,3 +17,4 @@ Ciao questo è il mio primo messaggio su github
 - istria
 - ca' granda
 - bicocca
+- ponale
