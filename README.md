@@ -24,3 +24,4 @@ Ciao questo è il mio primo messaggio su github
 - crescenzago
 - cascina gobba
 - cologno sud
+- cologno centro
