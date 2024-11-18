@@ -20,3 +20,4 @@ Ciao questo è il mio primo messaggio su github
 - duomo
 ### metro rossa
 - san babila
+- palestro
