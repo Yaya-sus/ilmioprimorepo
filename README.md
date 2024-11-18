@@ -22,3 +22,4 @@ Ciao questo è il mio primo messaggio su github
 - san babila
 - palestro
 - porta venezia
+- lima
