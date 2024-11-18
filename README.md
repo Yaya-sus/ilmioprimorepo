@@ -16,3 +16,4 @@ Ciao questo è il mio primo messaggio su github
 - marche
 - istria
 - ca' granda
+- bicocca
